@@ -12,7 +12,7 @@ namespace MyLibraryStore.Controllers
         {
             return View();
         }
-        public IActionResult Details()
+        public IActionResult Edit()
         {
             return View();
         }
